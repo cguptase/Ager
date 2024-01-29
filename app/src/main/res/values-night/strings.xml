@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="you_are_a">You are a</string>
+    <string name="your_age">Your Age</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="ager">Ager</string>
+    <string name="this_image_tells_your_age_group">This image tells your age group</string>
+    <string name="check">Check</string>
+</resources>
